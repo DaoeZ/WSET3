@@ -1,5 +1,5 @@
 {
-  "version": "1.2.3",
+  "version": "1.2.1",
   "changelog": "🚀 v1.2.1\n\n✅ Al abrir ficha: scroll al inicio\n✅ Al cerrar ficha: vuelve a la misma posición\n✅ Zoom en imágenes más fluido (optimización GPU)",
   "url": "https://github.com/DaoeZ/WSET3/releases/download/v1.2.1/WSET3-v1.2.1.apk"
 }
