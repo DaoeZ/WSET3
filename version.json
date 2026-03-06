@@ -1,5 +1,5 @@
 {
-  "version": "1.3.2",
-  "changelog": "🚀 v1.3.2\n\n✅ Actualización automática: ¡YA FUNCIONA! (descarga fondo + instalador)\n✅ Lista regiones: Francia cerrada por defecto",
-  "url": "https://github.com/DaoeZ/WSET3/releases/download/v1.3.2/WSET3-v1.3.2.apk"
+  "version": "1.4.0",
+  "changelog": "🚀 v1.4.0 - ¡FICHAS COMPLETAS!\n\n🗺️ Nuevas fichas: Portugal, Oporto, California, Oregón/Washington/NY, Canadá, Chile, Argentina, Sudáfrica, Australia, NZ\n🍾 Espumosos: Francia, Alemania, Italia, Cava, EE.UU., Cap Classique, Australia, NZ\n❓ Nuevas preguntas: Portugal, USA, California, Oregón/Washington/NY, Canadá, Chile\n✅ Compatibilidad formatos preguntas\n✅ Corregido typo ddocument\n🔄 'Test de examen' → 'Repaso rápido'\n⏱️ Examen simulado: 35 min (antes 120)",
+  "url": "https://github.com/DaoeZ/WSET3/releases/download/v1.4.0/WSET3-v1.4.0.apk"
 }
