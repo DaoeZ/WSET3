@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
-  "changelog": "🚀 v1.4.0 - ¡FICHAS COMPLETAS!\n\n🗺️ Nuevas fichas: Portugal, Oporto, California, Oregón/Washington/NY, Canadá, Chile, Argentina, Sudáfrica, Australia, NZ\n🍾 Espumosos: Francia, Alemania, Italia, Cava, EE.UU., Cap Classique, Australia, NZ\n❓ Nuevas preguntas: Portugal, USA, California, Oregón/Washington/NY, Canadá, Chile\n✅ Compatibilidad formatos preguntas\n✅ Corregido typo ddocument\n🔄 'Test de examen' → 'Repaso rápido'\n⏱️ Examen simulado: 35 min (antes 120)",
-  "url": "https://github.com/DaoeZ/WSET3/releases/download/v1.4.0/WSET3-v1.4.0.apk"
+  "version": "1.5.0",
+  "changelog": "🚀 v1.5.0\n\n📖 Glosario Inteligente: términos resaltados con definición al pulsar\n🧠 Modo Super Repaso: test personalizado con tus temas peores (<70% acierto)\n📊 Repaso mejorado: pestañas 'Falladas'/'Acertadas'/'Todas' + colores\n⚡ Motor examen reescrito: 'Turnos Rotatorios' garantiza distribución justa\n📖 Nueva sección Glosario en menú lateral\n🚀 Carga más rápida (regiones externalizadas)\n🐛 Correcciones tipográficas y de contenido",
+  "url": "https://github.com/DaoeZ/WSET3/releases/download/v1.5.0/WSET3-v1.5.0.apk"
 }
